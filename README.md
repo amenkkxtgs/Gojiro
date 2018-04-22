@@ -1,0 +1,2 @@
+# Gojiro
+Gojiro Selangkah kedepan
